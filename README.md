@@ -21,9 +21,9 @@
 
 ## 🚀 Projet en cours
 
-| Projet              | Description                                    |
-|---------------------|------------------------------------------------|
-| 🧩 Template-API     | Template d'API en PHP MVC prêt à l'emploi      |
+| Projet              | Description                                                    |
+|---------------------|----------------------------------------------------------------|
+| 🧩 Template-API     | Template d'API RESTful avec backend symfony et frontend Next.js|
 
 ---
 
