@@ -23,7 +23,7 @@
 
 | Projet              | Description                                                    |
 |---------------------|----------------------------------------------------------------|
-| 🧩 Template-API     | Template d'API RESTful avec backend symfony et frontend Next.js|
+| 🧩 Template-API     | Template d’architecture fullstack moderne combinant un backend Symfony pour la gestion d’API RESTful et un frontend Next.js pour une interface réactive et performante. Conçu pour accélérer le démarrage de projets, avec une structure claire, évolutive et respectueuse des bonnes pratiques de développement.|
 
 ---
 
@@ -65,7 +65,9 @@ Ce compte héberge des projets sous licence MIT, sauf indication contraire.
 
 | Project             | Description                                  |
 |---------------------|----------------------------------------------|
-| 🧩 Template-API     | Ready-to-use PHP MVC API project template     |
+| 🧩 Template-API     | A modern fullstack architecture template featuring a Symfony backend for RESTful API management and a Next.js frontend for a fast, reactive user interface. Designed to streamline project setup with a clean, scalable structure that follows best development practices.
+
+    |
 
 ---
 
