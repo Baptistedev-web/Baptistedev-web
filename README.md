@@ -67,7 +67,6 @@ Ce compte héberge des projets sous licence MIT, sauf indication contraire.
 |---------------------|----------------------------------------------|
 | 🧩 Template-API     | A modern fullstack architecture template featuring a Symfony backend for RESTful API management and a Next.js frontend for a fast, reactive user interface. Designed to streamline project setup with a clean, scalable structure that follows best development practices.
 
-    |
 
 ---
 
